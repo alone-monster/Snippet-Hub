@@ -41,4 +41,4 @@ Want to master how to build components like this from scratch? Head over to my o
 👉 **[alone-monster.github.io](https://alone-monster.github.io)**
 
 ---
-*Created with 💙 by Chirag Naskar. Feel free to use this code for your learning and projects!*
+*Created with 💙 by Alone Monster. Feel free to use this code for your learning and projects!*
